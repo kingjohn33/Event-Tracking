@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -7,65 +7,77 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
+.box_3 {
 }
-.box_2 {
+.image {
 }
-.ellipse {
-}
-._图片 {
-}
-.placeholder {
-}
-.button {
-}
-._一级标题 {
-  font-family:'Arial Normal', 'Arial';
+.heading_1 {
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
-._二级标题 {
-  font-family:'Arial Normal', 'Arial';
+.heading_2 {
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
-._三级标题 {
-  font-family:'Arial Normal', 'Arial';
+.heading_3 {
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
-._四级标题 {
-  font-family:'Arial Normal', 'Arial';
+.heading_4 {
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
-._五级标题 {
-  font-family:'Arial Normal', 'Arial';
+.heading_5 {
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
-._六级标题 {
-  font-family:'Arial Normal', 'Arial';
+.heading_6 {
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:10px;
   text-align:left;
 }
+.paragraph {
+  text-align:left;
+}
+.flow_shape {
+}
+.box_2 {
+}
+.image1 {
+  color:#000000;
+}
+.iconfont {
+  font-family:'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+.box_1 {
+}
+.ellipse {
+}
 .label {
   font-size:14px;
   text-align:left;
 }
-._文本段落 {
-  text-align:left;
+.icon {
 }
 .line {
 }
@@ -73,16 +85,107 @@
   color:#000000;
   text-align:left;
 }
+.shape {
+}
+.table_cell {
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
 }
-.table_cell {
-}
-.sticky_1 {
+.checkbox {
   text-align:left;
 }
-._流程形状 {
+.radio_button {
+  text-align:left;
 }
-.icon {
+.html_button {
+  text-align:center;
+}
+.connector {
+  font-size:20px;
+  color:#FFFFFF;
+}
+.tree_node {
+  text-align:left;
+}
+._形状 {
+}
+.el-button {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+}
+.image2 {
+}
+.inputed {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.paragraph1 {
+  text-align:left;
+}
+.tag {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:center;
+}
+.tag-success {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#67C23A;
+  text-align:center;
+}
+.tag-warning {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#E6A23C;
+  text-align:center;
+}
+.tag-info {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+}
+.paragraph2 {
+  text-align:left;
+}
+.heading_11 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._1-color {
+  font-size:12px;
+  color:#FFFFFF;
 }
