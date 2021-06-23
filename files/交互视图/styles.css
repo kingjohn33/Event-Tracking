@@ -2170,29 +2170,13 @@
   width:256px;
   height:54px;
 }
-#u41-4 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:162px;
-  width:256px;
-  height:54px;
-}
-#u41-5 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:216px;
-  width:256px;
-  height:54px;
-}
 #u41 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:11px;
   width:256px;
-  height:270px;
+  height:162px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
